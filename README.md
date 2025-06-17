@@ -32,3 +32,8 @@ The **Dinosaur Battle Royale app** allows users to simulate battles between diff
 You can access the live Shiny app here: [Dinosaur Battle App](https://analytically-ray.shinyapps.io/dinosaur_battle_app/)
 
 ![Dinosaur Battle App Screenshot](images/screenshot.png)
+
+
+## Notes and Lessons Learned
+* Built using RStudio and ChatGPT to experiment with Vibe Coding on top of my 10-years experience using R.
+* Vibe coding can create a vast majority of the code and helps to easily add features, but when specific errors or hurdles occur, ChatGPT seems to cycle through the same solutions that don't work. This is when human deduction and expertise are needed. Most of the time, the errors are minor issues that can be fixed by a fundamental understanding of R.

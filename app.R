@@ -182,7 +182,7 @@ ui <- fluidPage(
       tags$audio(
         src = "https://ia801504.us.archive.org/27/items/JurassicParkThemeSong./Jurassic%20Park%20theme%20song..mp3", 
         type = "audio/ogg",
-        autoplay = NA,
+        autoplay = TRUE,
         loop = NA,
         controls = NA),
       selectInput("dino1", "Choose Dinosaur 1:", choices = names(dino_db), selected="Tyrannosaurus Rex"),
