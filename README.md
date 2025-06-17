@@ -1,13 +1,11 @@
-# dinosaur_battle_shiny
+# Dinosaur Battle Shiny App
 When R Shiny meets my young dinosaur-enthused stakeholder, we get this interactive dino-adventure and feature requests become roars and user acceptance testing involves stomping feet.
 
----
 
 ## About the App
 
 The **Dinosaur Battle Royale app** allows users to simulate battles between different dinosaurs. It's designed to be an **interactive experience** for dinosaur enthusiasts.
 
----
 
 ## Features
 
@@ -22,14 +20,12 @@ The **Dinosaur Battle Royale app** allows users to simulate battles between diff
     * Velociraptor
     * and many more
 
----
 
 ## How to Use
 
-1.  **Select Dinosaurs**: Choose a dinosaur for "Dinosaur 1" and another for "Dinosaur 2" from the provided dropdown lists.
-2.  **Initiate Battle**: Once you've selected both dinosaurs, the app will simulate a battle between them.
+1.  **Select Dinosaurs**: Choose a dinosaur for "Dinosaur 1" and another for "Dinosaur 2" from the provided dropdown lists. View the battle statistics of each dinosaur and the countries where they are found.
+2.  **Initiate Battle**: Once you've selected both dinosaurs, click "Begin Battle" and the app will simulate a battle between them.
 
----
 
 ## Access the App
 
