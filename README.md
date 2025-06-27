@@ -1,6 +1,7 @@
 # Dinosaur Battle Shiny App 🦖 ⚔️ 🦕
 When R Shiny meets my young dinosaur-enthused stakeholder, we get this interactive dino-adventure and feature requests become roars and user acceptance testing involves stomping feet.
 
+You can access the live Shiny app here: [Dinosaur Battle App](https://analytically-ray.shinyapps.io/dinosaur_battle_app/)
 
 ## About the App
 
@@ -39,6 +40,10 @@ The **Dinosaur Battle Royale app** allows users to simulate battles between diff
 You can access the live Shiny app here: [Dinosaur Battle App](https://analytically-ray.shinyapps.io/dinosaur_battle_app/)
 
 ![Dinosaur Battle App Screenshot](images/screenshot.png)
+
+
+## Tools
+[![shiny hex logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/Shiny_hex_logo.svg)](https://shiny.posit.co/) [![htmltools hex logo](https://rstudio.github.io/htmltools/reference/figures/logo.png)](https://rstudio.github.io/htmltools/) [![dplyr hex logo](https://dplyr.tidyverse.org/logo.png)](https://dplyr.tidyverse.org/)
 
 
 ## Notes and Lessons Learned
