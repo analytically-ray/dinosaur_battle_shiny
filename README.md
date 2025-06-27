@@ -43,8 +43,15 @@ You can access the live Shiny app here: [Dinosaur Battle App](https://analytical
 
 
 ## Tools
-[![shiny hex logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/Shiny_hex_logo.svg)](https://shiny.posit.co/) [![htmltools hex logo](https://rstudio.github.io/htmltools/reference/figures/logo.png)](https://rstudio.github.io/htmltools/) [![dplyr hex logo](https://dplyr.tidyverse.org/logo.png)](https://dplyr.tidyverse.org/)
-
+<a href="https://shiny.posit.co/">
+  <img src="https://shiny.posit.co/images/shiny-solo.png" alt="shiny hex logo" width="100"/>
+</a>
+<a href="https://rstudio.github.io/htmltools/">
+  <img src="https://rstudio.github.io/htmltools/reference/figures/logo.png" alt="htmltools hex logo" width="100"/>
+</a>
+<a href="https://dplyr.tidyverse.org/">
+  <img src="https://dplyr.tidyverse.org/logo.png" alt="dplyr hex logo" width="100"/>
+</a>
 
 ## Notes and Lessons Learned
 * Built using RStudio and ChatGPT to experiment with Vibe Coding on top of my 10-years experience using R.
